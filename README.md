@@ -4,7 +4,7 @@
 
 * This is **NOT** the desired implementation, neither in terms of the **language** used, nor in terms of the **algorithm design**, but rather a *fast way to showcase its functionality*.
 
-> As could already tell, it is a p5.js sketch you can run in the browser
+> As you could already tell, it is a p5.js sketch you can run in the browser
 
 # Installation
 
